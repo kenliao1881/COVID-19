@@ -517,7 +517,6 @@
     <Long_>-63.0548</Long_>
     <Combined_Key>Sint Maarten, Netherlands</Combined_Key>
     <Population>0</Population>
-=======
     <UID>104</UID>
     <iso2>MM</iso2>
     <iso3>MMR</iso3>
@@ -1216,7 +1215,6 @@
     <Long_>-60.9789</Long_>
     <Combined_Key>Saint Lucia</Combined_Key>
     <Population>183627</Population>
->>>>>>> Stashed changes
   </dataGridView1>
   <dataGridView1>
     <UID>670</UID>
@@ -1233,7 +1231,6 @@
     <Population>0</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>660</UID>
     <iso2>AI</iso2>
     <iso3>AIA</iso3>
@@ -1375,7 +1372,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84000001</UID>
-=======
     <UID>674</UID>
     <iso2>SM</iso2>
     <iso3>SMR</iso3>
@@ -1881,7 +1877,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84090001</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -1895,7 +1890,6 @@
     <Population>0</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>84080001</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -2681,7 +2675,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84080012</UID>
-=======
     <UID>84000002</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -3831,7 +3824,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84099999</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -3845,7 +3837,6 @@
     <Population>0</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>84090012</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -3861,7 +3852,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84000013</UID>
-=======
     <UID>304</UID>
     <iso2>GL</iso2>
     <iso3>GRL</iso3>
@@ -3975,7 +3965,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84080015</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -3989,9 +3978,7 @@
     <Population>0</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>84080013</UID>
-=======
     <UID>84090015</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -4105,7 +4092,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84080016</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -4119,7 +4105,6 @@
     <Population>0</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>84090013</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -5129,7 +5114,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84090036</UID>
-=======
     <UID>84090016</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -6335,7 +6319,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84090038</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -6349,7 +6332,6 @@
     <Population>0</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>84000037</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -6379,7 +6361,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84090037</UID>
-=======
     <UID>580</UID>
     <iso2>MP</iso2>
     <iso3>MNP</iso3>
@@ -6465,7 +6446,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84090039</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -6479,7 +6459,6 @@
     <Population>0</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>84000038</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -6641,7 +6620,6 @@
     <FIPS>80041</FIPS>
     <Admin2>Out of OR</Admin2>
     <Province_State>Oregon</Province_State>
-=======
     <UID>84000040</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -6803,7 +6781,6 @@
     <FIPS>72</FIPS>
     <Admin2 />
     <Province_State>Puerto Rico</Province_State>
->>>>>>> Stashed changes
     <Country_Region>US</Country_Region>
     <Lat>18.2208</Lat>
     <Long_>-66.5901</Long_>
@@ -6863,7 +6840,6 @@
     <Country_Region>Canada</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Out of OR, Oregon, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7028,7 +7004,6 @@
     <code3>840</code3>
     <FIPS>90045</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Recovered, Canada</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7249,12 +7224,10 @@
     <code3>840</code3>
     <FIPS>80045</FIPS>
     <Admin2>Out of SC</Admin2>
->>>>>>> Stashed changes
     <Province_State>South Carolina</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, South Carolina, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7293,7 +7266,6 @@
     <code3>840</code3>
     <FIPS>90046</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of SC, South Carolina, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7332,12 +7304,10 @@
     <code3>840</code3>
     <FIPS>80046</FIPS>
     <Admin2>Out of SD</Admin2>
->>>>>>> Stashed changes
     <Province_State>South Dakota</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, South Dakota, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7376,7 +7346,6 @@
     <code3>840</code3>
     <FIPS>90047</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of SD, South Dakota, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7443,12 +7412,10 @@
     <code3>840</code3>
     <FIPS>80047</FIPS>
     <Admin2>Out of TN</Admin2>
->>>>>>> Stashed changes
     <Province_State>Tennessee</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Tennessee, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7487,7 +7454,6 @@
     <code3>840</code3>
     <FIPS>90048</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of TN, Tennessee, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7526,12 +7492,10 @@
     <code3>840</code3>
     <FIPS>80048</FIPS>
     <Admin2>Out of TX</Admin2>
->>>>>>> Stashed changes
     <Province_State>Texas</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Texas, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7570,7 +7534,6 @@
     <code3>840</code3>
     <FIPS>90049</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of TX, Texas, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7651,12 +7614,10 @@
     <code3>840</code3>
     <FIPS>80049</FIPS>
     <Admin2>Out of UT</Admin2>
->>>>>>> Stashed changes
     <Province_State>Utah</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Utah, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7695,7 +7656,6 @@
     <code3>840</code3>
     <FIPS>90050</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of UT, Utah, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7734,12 +7694,10 @@
     <code3>840</code3>
     <FIPS>80050</FIPS>
     <Admin2>Out of VT</Admin2>
->>>>>>> Stashed changes
     <Province_State>Vermont</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Vermont, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7792,7 +7750,6 @@
     <code3>840</code3>
     <FIPS>90051</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of VT, Vermont, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -7859,12 +7816,10 @@
     <code3>840</code3>
     <FIPS>80051</FIPS>
     <Admin2>Out of VA</Admin2>
->>>>>>> Stashed changes
     <Province_State>Virginia</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Virginia, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -8435,7 +8390,6 @@
     <code3>840</code3>
     <FIPS>90053</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of VA, Virginia, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9006,12 +8960,10 @@
     <code3>840</code3>
     <FIPS>80053</FIPS>
     <Admin2>Out of WA</Admin2>
->>>>>>> Stashed changes
     <Province_State>Washington</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Washington, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9050,7 +9002,6 @@
     <code3>840</code3>
     <FIPS>90054</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of WA, Washington, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9089,12 +9040,10 @@
     <code3>840</code3>
     <FIPS>80054</FIPS>
     <Admin2>Out of WV</Admin2>
->>>>>>> Stashed changes
     <Province_State>West Virginia</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, West Virginia, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9133,7 +9082,6 @@
     <code3>840</code3>
     <FIPS>90055</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of WV, West Virginia, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9186,12 +9134,10 @@
     <code3>840</code3>
     <FIPS>80055</FIPS>
     <Admin2>Out of WI</Admin2>
->>>>>>> Stashed changes
     <Province_State>Wisconsin</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Wisconsin, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9230,7 +9176,6 @@
     <code3>840</code3>
     <FIPS>90056</FIPS>
     <Admin2>Unassigned</Admin2>
-=======
     <Combined_Key>Out of WI, Wisconsin, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9269,12 +9214,10 @@
     <code3>840</code3>
     <FIPS>80056</FIPS>
     <Admin2>Out of WY</Admin2>
->>>>>>> Stashed changes
     <Province_State>Wyoming</Province_State>
     <Country_Region>US</Country_Region>
     <Lat>0</Lat>
     <Long_>0</Long_>
-<<<<<<< Updated upstream
     <Combined_Key>Unassigned, Wyoming, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9567,7 +9510,6 @@
     <Admin2>Todd</Admin2>
     <Province_State>South Dakota</Province_State>
     <Country_Region>US</Country_Region>
-=======
     <Combined_Key>Out of WY, Wyoming, US</Combined_Key>
     <Population>0</Population>
   </dataGridView1>
@@ -9972,7 +9914,6 @@
     <Admin2>Todd</Admin2>
     <Province_State>South Dakota</Province_State>
     <Country_Region>US</Country_Region>
->>>>>>> Stashed changes
     <Lat>43.19338568</Lat>
     <Long_>-100.7195503</Long_>
     <Combined_Key>Todd, South Dakota, US</Combined_Key>
@@ -10021,7 +9962,6 @@
     <Population>10194</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>620</UID>
     <iso2>PT</iso2>
     <iso3>PRT</iso3>
@@ -10050,8 +9990,6 @@
     <Population>10203134</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84037049</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -10486,7 +10424,6 @@
     <Population>10423</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>300</UID>
     <iso2>GR</iso2>
     <iso3>GRC</iso3>
@@ -10501,8 +10438,6 @@
     <Population>10423054</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84046019</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -11511,7 +11446,6 @@
     <Population>10953</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>608</UID>
     <iso2>PH</iso2>
     <iso3>PHL</iso3>
@@ -11526,8 +11460,6 @@
     <Population>109581078</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84036069</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -11584,8 +11516,6 @@
     <Population>109888</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
-=======
     <UID>332</UID>
     <iso2>HT</iso2>
     <iso3>HTI</iso3>
@@ -11600,7 +11530,6 @@
     <Population>11402528</Population>
   </dataGridView1>
   <dataGridView1>
->>>>>>> Stashed changes
     <UID>84030085</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -11965,8 +11894,6 @@
     <Population>11196</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
-=======
     <UID>308</UID>
     <iso2>GD</iso2>
     <iso3>GRD</iso3>
@@ -11981,7 +11908,6 @@
     <Population>112523</Population>
   </dataGridView1>
   <dataGridView1>
->>>>>>> Stashed changes
     <UID>84037043</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -12024,7 +11950,6 @@
     <Population>11249</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>308</UID>
     <iso2>GD</iso2>
     <iso3>GRD</iso3>
@@ -12039,8 +11964,6 @@
     <Population>112523</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84008105</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -12125,7 +12048,6 @@
     <Population>11336</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>15606</UID>
     <iso2>CN</iso2>
     <iso3>CHN</iso3>
@@ -12140,8 +12062,6 @@
     <Population>113460000</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84024037</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -12240,7 +12160,6 @@
     <Population>11402</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>332</UID>
     <iso2>HT</iso2>
     <iso3>HTI</iso3>
@@ -12255,8 +12174,6 @@
     <Population>11402528</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84018035</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -12803,7 +12720,6 @@
     <Population>118081</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>788</UID>
     <iso2>TN</iso2>
     <iso3>TUN</iso3>
@@ -12818,8 +12734,6 @@
     <Population>11818619</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84016073</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -13759,7 +13673,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84039035</UID>
-<<<<<<< Updated upstream
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -13959,7 +13872,6 @@
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
-=======
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -14159,7 +14071,6 @@
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
->>>>>>> Stashed changes
     <FIPS>5049</FIPS>
     <Admin2>Fulton</Admin2>
     <Province_State>Arkansas</Province_State>
@@ -14380,8 +14291,6 @@
     <Population>125922</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
-=======
     <UID>392</UID>
     <iso2>JP</iso2>
     <iso3>JPN</iso3>
@@ -14396,7 +14305,6 @@
     <Population>126476461</Population>
   </dataGridView1>
   <dataGridView1>
->>>>>>> Stashed changes
     <UID>84005045</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -14439,7 +14347,6 @@
     <Population>12630</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>392</UID>
     <iso2>JP</iso2>
     <iso3>JPN</iso3>
@@ -14454,8 +14361,6 @@
     <Population>126476461</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84027053</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -14526,7 +14431,6 @@
     <Population>127039</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>480</UID>
     <iso2>MU</iso2>
     <iso3>MUS</iso3>
@@ -14541,8 +14445,6 @@
     <Population>1271768</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84037137</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -14753,7 +14655,6 @@
     <Population>12893</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>484</UID>
     <iso2>MX</iso2>
     <iso3>MEX</iso3>
@@ -14768,8 +14669,6 @@
     <Population>128932753</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84017093</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -14868,7 +14767,6 @@
     <Population>12947</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>646</UID>
     <iso2>RW</iso2>
     <iso3>RWA</iso3>
@@ -14883,8 +14781,6 @@
     <Population>12952218</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84018095</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -14969,8 +14865,6 @@
     <Population>1298</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
-=======
     <UID>324</UID>
     <iso2>GN</iso2>
     <iso3>GIN</iso3>
@@ -14985,7 +14879,6 @@
     <Population>13132795</Population>
   </dataGridView1>
   <dataGridView1>
->>>>>>> Stashed changes
     <UID>84046069</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -15140,7 +15033,6 @@
     <Population>131228</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>324</UID>
     <iso2>GN</iso2>
     <iso3>GIN</iso3>
@@ -15155,8 +15047,6 @@
     <Population>13132795</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84051007</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -15255,7 +15145,6 @@
     <Population>13184</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>626</UID>
     <iso2>TL</iso2>
     <iso3>TLS</iso3>
@@ -15270,8 +15159,6 @@
     <Population>1318445</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84029067</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -16196,7 +16083,6 @@
     <Population>13776</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>356</UID>
     <iso2>IN</iso2>
     <iso3>IND</iso3>
@@ -16211,8 +16097,6 @@
     <Population>1380004385</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84048441</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -16493,7 +16377,6 @@
     <Population>13984</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>780</UID>
     <iso2>TT</iso2>
     <iso3>TTO</iso3>
@@ -16506,7 +16389,6 @@
     <Long_>-61.2225</Long_>
     <Combined_Key>Trinidad and Tobago</Combined_Key>
     <Population>1399488</Population>
-=======
     <UID>716</UID>
     <iso2>ZW</iso2>
     <iso3>ZWE</iso3>
@@ -16519,7 +16401,6 @@
     <Long_>29.154857</Long_>
     <Combined_Key>Zimbabwe</Combined_Key>
     <Population>14862924</Population>
->>>>>>> Stashed changes
   </dataGridView1>
   <dataGridView1>
     <UID>84008007</UID>
@@ -17110,7 +16991,6 @@
     <Population>14381</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>156</UID>
     <iso2>CN</iso2>
     <iso3>CHN</iso3>
@@ -17125,8 +17005,6 @@
     <Population>1439323776</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84021123</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -17351,7 +17229,6 @@
     <Population>14590</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>643</UID>
     <iso2>RU</iso2>
     <iso3>RUS</iso3>
@@ -17366,8 +17243,6 @@
     <Population>145934462</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84051043</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -17690,7 +17565,6 @@
     <Population>14860</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>716</UID>
     <iso2>ZW</iso2>
     <iso3>ZWE</iso3>
@@ -17705,8 +17579,6 @@
     <Population>14862924</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84027143</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -18674,7 +18546,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84055077</UID>
-<<<<<<< Updated upstream
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -19256,7 +19127,6 @@
     <Admin2>Hampshire</Admin2>
     <Province_State>Massachusetts</Province_State>
     <Country_Region>US</Country_Region>
-=======
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -19810,7 +19680,6 @@
     <Admin2>Hampshire</Admin2>
     <Province_State>Massachusetts</Province_State>
     <Country_Region>US</Country_Region>
->>>>>>> Stashed changes
     <Lat>42.33997957</Lat>
     <Long_>-72.65898478</Long_>
     <Combined_Key>Hampshire, Massachusetts, US</Combined_Key>
@@ -20797,7 +20666,6 @@
     <Population>167417</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>686</UID>
     <iso2>SN</iso2>
     <iso3>SEN</iso3>
@@ -20812,8 +20680,6 @@
     <Population>16743927</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84037057</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -21136,8 +21002,6 @@
     <Population>169561</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
-=======
     <UID>320</UID>
     <iso2>GT</iso2>
     <iso3>GTM</iso3>
@@ -21152,7 +21016,6 @@
     <Population>17915568</Population>
   </dataGridView1>
   <dataGridView1>
->>>>>>> Stashed changes
     <UID>84020033</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -21335,7 +21198,6 @@
     <Population>17103</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>528</UID>
     <iso2>NL</iso2>
     <iso3>NLD</iso3>
@@ -21350,8 +21212,6 @@
     <Population>17134872</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84013241</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -21730,7 +21590,6 @@
     <Population>1749343</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>760</UID>
     <iso2>SY</iso2>
     <iso3>SYR</iso3>
@@ -21745,8 +21604,6 @@
     <Population>17500658</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84046065</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -21789,7 +21646,6 @@
     <Population>17557</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>3605</UID>
     <iso2>AU</iso2>
     <iso3>AUS</iso3>
@@ -21804,8 +21660,6 @@
     <Population>1756500</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84048251</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -22184,7 +22038,6 @@
     <Population>17894</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>320</UID>
     <iso2>GT</iso2>
     <iso3>GTM</iso3>
@@ -22199,8 +22052,6 @@
     <Population>17915568</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84017143</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -22299,8 +22150,6 @@
     <Population>179746</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
-=======
     <UID>894</UID>
     <iso2>ZM</iso2>
     <iso3>ZMB</iso3>
@@ -22329,7 +22178,6 @@
     <Population>18776707</Population>
   </dataGridView1>
   <dataGridView1>
->>>>>>> Stashed changes
     <UID>84006089</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -22541,7 +22389,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84037097</UID>
-<<<<<<< Updated upstream
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -22619,7 +22466,6 @@
     <Admin2>Otero</Admin2>
     <Province_State>Colorado</Province_State>
     <Country_Region>US</Country_Region>
-=======
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -22697,7 +22543,6 @@
     <Admin2>Otero</Admin2>
     <Province_State>Colorado</Province_State>
     <Country_Region>US</Country_Region>
->>>>>>> Stashed changes
     <Lat>37.9014485</Lat>
     <Long_>-103.7173385</Long_>
     <Combined_Key>Otero, Colorado, US</Combined_Key>
@@ -22802,7 +22647,6 @@
     <Population>18360</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>662</UID>
     <iso2>LC</iso2>
     <iso3>LCA</iso3>
@@ -22817,8 +22661,6 @@
     <Population>183627</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84031069</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -22833,7 +22675,6 @@
     <Population>1837</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>894</UID>
     <iso2>ZM</iso2>
     <iso3>ZMB</iso3>
@@ -22848,8 +22689,6 @@
     <Population>18383955</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84013001</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -23214,7 +23053,6 @@
     <Population>187196</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>398</UID>
     <iso2>KZ</iso2>
     <iso3>KAZ</iso3>
@@ -23229,8 +23067,6 @@
     <Population>18776707</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84042019</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -23287,7 +23123,6 @@
     <Population>18845</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>428</UID>
     <iso2>LV</iso2>
     <iso3>LVA</iso3>
@@ -23302,8 +23137,6 @@
     <Population>1886198</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84001091</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -23459,7 +23292,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84036007</UID>
-<<<<<<< Updated upstream
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -25840,7 +25672,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84021201</UID>
-=======
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -28137,7 +27968,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84027045</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -28145,8 +27975,6 @@
     <Admin2>Fillmore</Admin2>
     <Province_State>Minnesota</Province_State>
     <Country_Region>US</Country_Region>
-<<<<<<< Updated upstream
-=======
     <Lat>43.67394126</Lat>
     <Long_>-92.08980382</Long_>
     <Combined_Key>Fillmore, Minnesota, US</Combined_Key>
@@ -28189,7 +28017,6 @@
     <Admin2>Robertson</Admin2>
     <Province_State>Kentucky</Province_State>
     <Country_Region>US</Country_Region>
->>>>>>> Stashed changes
     <Lat>38.51923469</Lat>
     <Long_>-84.05055616</Long_>
     <Combined_Key>Robertson, Kentucky, US</Combined_Key>
@@ -28532,7 +28359,6 @@
     <Population>21403</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>144</UID>
     <iso2>LK</iso2>
     <iso3>LKA</iso3>
@@ -28547,8 +28373,6 @@
     <Population>21413249</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84020175</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -28689,7 +28513,6 @@
     <Population>21532</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>15602</UID>
     <iso2>CN</iso2>
     <iso3>CHN</iso3>
@@ -28704,8 +28527,6 @@
     <Population>21542000</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84006011</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -29196,7 +29017,6 @@
     <Population>22068</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>586</UID>
     <iso2>PK</iso2>
     <iso3>PAK</iso3>
@@ -29211,8 +29031,6 @@
     <Population>220892340</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84029147</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -29409,7 +29227,6 @@
     <Population>2225</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>266</UID>
     <iso2>GA</iso2>
     <iso3>GAB</iso3>
@@ -29424,8 +29241,6 @@
     <Population>2225734</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84038039</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -29651,7 +29466,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84036081</UID>
-<<<<<<< Updated upstream
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -39326,7 +39140,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84036031</UID>
-=======
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -48707,7 +48520,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84001039</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -48715,7 +48527,6 @@
     <Admin2>Covington</Admin2>
     <Province_State>Alabama</Province_State>
     <Country_Region>US</Country_Region>
-<<<<<<< Updated upstream
     <Lat>44.11630765</Lat>
     <Long_>-73.77297842</Long_>
     <Combined_Key>Essex, New York, US</Combined_Key>
@@ -51565,7 +51376,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84038085</UID>
-=======
     <Lat>31.2477854</Lat>
     <Long_>-86.45050893</Long_>
     <Combined_Key>Covington, Alabama, US</Combined_Key>
@@ -54331,7 +54141,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84008095</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -54339,7 +54148,6 @@
     <Admin2>Phillips</Admin2>
     <Province_State>Colorado</Province_State>
     <Country_Region>US</Country_Region>
-<<<<<<< Updated upstream
     <Lat>46.11323337</Lat>
     <Long_>-101.0440149</Long_>
     <Combined_Key>Sioux, North Dakota, US</Combined_Key>
@@ -55131,7 +54939,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84055095</UID>
-=======
     <Lat>40.59414277</Lat>
     <Long_>-102.3577703</Long_>
     <Combined_Key>Phillips, Colorado, US</Combined_Key>
@@ -55839,7 +55646,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84039075</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -55847,7 +55653,6 @@
     <Admin2>Polk</Admin2>
     <Province_State>Wisconsin</Province_State>
     <Country_Region>US</Country_Region>
-<<<<<<< Updated upstream
     <Lat>45.46130348</Lat>
     <Long_>-92.44182875</Long_>
     <Combined_Key>Polk, Wisconsin, US</Combined_Key>
@@ -65879,7 +65684,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84048437</UID>
-=======
     <Lat>40.56163713</Lat>
     <Long_>-81.92635677</Long_>
     <Combined_Key>Holmes, Ohio, US</Combined_Key>
@@ -75365,7 +75169,6 @@
   </dataGridView1>
   <dataGridView1>
     <UID>84012087</UID>
->>>>>>> Stashed changes
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
@@ -75373,7 +75176,6 @@
     <Admin2>Monroe</Admin2>
     <Province_State>Florida</Province_State>
     <Country_Region>US</Country_Region>
-<<<<<<< Updated upstream
     <Lat>34.53028891</Lat>
     <Long_>-101.7349174</Long_>
     <Combined_Key>Swisher, Texas, US</Combined_Key>
@@ -80998,7 +80800,6 @@
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
-=======
     <Lat>25.20904673</Lat>
     <Long_>-81.07812416</Long_>
     <Combined_Key>Monroe, Florida, US</Combined_Key>
@@ -86385,7 +86186,6 @@
     <iso2>US</iso2>
     <iso3>USA</iso3>
     <code3>840</code3>
->>>>>>> Stashed changes
     <FIPS>28097</FIPS>
     <Admin2>Montgomery</Admin2>
     <Province_State>Mississippi</Province_State>
@@ -86536,7 +86336,6 @@
     <Population>98320</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>690</UID>
     <iso2>SC</iso2>
     <iso3>SYC</iso3>
@@ -86551,8 +86350,6 @@
     <Population>98347</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84048357</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -86693,7 +86490,6 @@
     <Population>988000</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>784</UID>
     <iso2>AE</iso2>
     <iso3>ARE</iso3>
@@ -86708,8 +86504,6 @@
     <Population>9890402</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84001083</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -86724,7 +86518,6 @@
     <Population>98915</Population>
   </dataGridView1>
   <dataGridView1>
-<<<<<<< Updated upstream
     <UID>340</UID>
     <iso2>HN</iso2>
     <iso3>HND</iso3>
@@ -86739,8 +86532,6 @@
     <Population>9904607</Population>
   </dataGridView1>
   <dataGridView1>
-=======
->>>>>>> Stashed changes
     <UID>84019137</UID>
     <iso2>US</iso2>
     <iso3>USA</iso3>
@@ -86866,14 +86657,11 @@
     <Combined_Key>Fresno, California, US</Combined_Key>
     <Population>999101</Population>
   </dataGridView1>
-<<<<<<< Updated upstream
-=======
   <dataGridView1>
     <Population />
   </dataGridView1>
   <dataGridView1>
     <Population />
   </dataGridView1>
->>>>>>> Stashed changes
   <dataGridView1 />
 </DocumentElement>
